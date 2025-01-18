@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Flavia Figueredo
-- 💻 FrontEnd Developer
+👋 Hi, I’m Flavia Figueredo
+💻 FrontEnd Developer
 
 
 <!---
