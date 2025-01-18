@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @flavia-figueredo
+- 👋 Hi, I’m Flavia Figueredo
 - 💻 FrontEnd Developer
 
 
