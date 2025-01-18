@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Flavia Figueredo
+# 👋 Hi, I’m Flávia Figueredo
 <p> 💻 FrontEnd Developer </p>
 
 
